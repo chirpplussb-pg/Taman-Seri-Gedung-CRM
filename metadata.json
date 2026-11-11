@@ -1,0 +1,6 @@
+{
+  "name": "Taman Seri Gedung Registry & CRM",
+  "description": "Property registry, electronic Geran titles, site audit condition logs, and owner outreach CRM for the Taman Seri Gedung 637-unit landed housing revitalization project.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
